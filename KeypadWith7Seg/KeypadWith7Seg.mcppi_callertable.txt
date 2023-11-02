@@ -1,0 +1,6 @@
+main
+	__CC2DW
+		____DoICP
+	Keypad_Init
+	Keypad_Key_Press
+		Delay_1us

@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\USB Example1\USB_Example1.mcppi
+Project1=..\USBandLCD\USBandLCD.mcppi
+Project2=..\USB Example2\USB_Example2.mcppi
+Project3=USB_Example3.mcppi
+[ActiveProject]
+Index=3
